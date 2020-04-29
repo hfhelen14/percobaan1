@@ -1,5 +1,3 @@
-# hello
-# nama : Helen
-# kelas : xi tkj 1
+# hello Testttttttttttt
 # hiiiiiiiiiii
 # hello world
